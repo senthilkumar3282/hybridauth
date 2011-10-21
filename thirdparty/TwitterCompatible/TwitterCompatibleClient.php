@@ -38,7 +38,8 @@ class Twitter_Compatible_Client {
   /* Contains the last HTTP headers returned. */
   public $http_info;
   /* Set the useragnet. */
-  public $useragent = 'TwitterOAuth v0.2.0-beta2 (Twitter Compatible Client/1.0)';  /* Immediately retry the API call if the response was not successful. */
+  public $useragent = 'TwitterOAuth v0.2.0-beta2 (Twitter Compatible Client/1.0)';   
+  /* Immediately retry the API call if the response was not successful. */
   //public $retry = TRUE;
  
   /* Set API URLS */

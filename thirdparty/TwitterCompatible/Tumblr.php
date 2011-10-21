@@ -1,4 +1,5 @@
 <?php 
+	// well Tumblr is not that compatible but eh the authentification work the same
 	class Tumblr_Client extends Twitter_Compatible_Client
 	{
 		/* Set up the API root URL. */
